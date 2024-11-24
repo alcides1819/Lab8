@@ -1,10 +1,9 @@
 h1{
-    color: #00d9ff; font-size: 25px;
+    color: #33b927; font-size: 25px;
 }
 p{
-    color: #059b26;font-family: Arial;
-
+    color: hwb(194 5% 9%);font-family: Arial;
 }
 img{
-    border: 2px solid #230455;
+    border: 2px solid hsl(263, 64%, 31%);
 }
